@@ -2,4 +2,4 @@
 
 ## Programming Language
 
-* [The difference between golang and java](https://github.com/oh-my-star/programming-language/blob/master/java-golang-defference)
+* [The difference between golang and java](https://github.com/oh-my-star/programming-language/blob/master/java-golang-defference.md)
